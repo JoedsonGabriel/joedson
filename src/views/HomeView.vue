@@ -23,7 +23,7 @@
         <span class="text-default-sm">
           vamos conversar?
         </span>
-        <a href="mailto:json.gbriel@gmail.com">json.gbriel@gmail.com</a>
+        <a style="font-size: medium;" href="mailto:json.gbriel@gmail.com">json.gbriel@gmail.com</a>
         <br>
         <br>
         <a class="m-1" target="_blank" href="https://www.linkedin.com/in/joedson-gabriel-alves-881124205">
